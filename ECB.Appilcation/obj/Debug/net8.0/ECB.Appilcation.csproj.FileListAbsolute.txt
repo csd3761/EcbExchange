@@ -1,0 +1,15 @@
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/bin/Debug/net8.0/ECB.Appilcation.deps.json
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/bin/Debug/net8.0/ECB.Appilcation.dll
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/bin/Debug/net8.0/ECB.Appilcation.pdb
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/obj/Debug/net8.0/ECB.Appilcation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/obj/Debug/net8.0/ECB.Appilcation.AssemblyInfoInputs.cache
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/obj/Debug/net8.0/ECB.Appilcation.AssemblyInfo.cs
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/obj/Debug/net8.0/ECB.Appilcation.csproj.CoreCompileInputs.cache
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/obj/Debug/net8.0/ECB.Appilcation.dll
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/obj/Debug/net8.0/refint/ECB.Appilcation.dll
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/obj/Debug/net8.0/ECB.Appilcation.pdb
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/obj/Debug/net8.0/ref/ECB.Appilcation.dll
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/obj/Debug/net8.0/ECB.Appilcation.csproj.AssemblyReference.cache
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/bin/Debug/net8.0/ECB.Domain.dll
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/bin/Debug/net8.0/ECB.Domain.pdb
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Appilcation/obj/Debug/net8.0/ECB.Appilcation.csproj.CopyComplete

@@ -1,0 +1,11 @@
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/bin/Debug/net8.0/ECB.Domain.deps.json
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/bin/Debug/net8.0/ECB.Domain.dll
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/bin/Debug/net8.0/ECB.Domain.pdb
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/obj/Debug/net8.0/ECB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/obj/Debug/net8.0/ECB.Domain.AssemblyInfoInputs.cache
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/obj/Debug/net8.0/ECB.Domain.AssemblyInfo.cs
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/obj/Debug/net8.0/ECB.Domain.csproj.CoreCompileInputs.cache
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/obj/Debug/net8.0/ECB.Domain.dll
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/obj/Debug/net8.0/refint/ECB.Domain.dll
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/obj/Debug/net8.0/ECB.Domain.pdb
+/Users/steliozamp/Desktop/Novibet Backend/ECB/ECB.Domain/obj/Debug/net8.0/ref/ECB.Domain.dll
